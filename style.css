@@ -1,0 +1,39 @@
+body{
+    margin: 20px;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+form{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+.profilePicture{
+    float: right;
+    margin: auto;
+    width: 120px;
+    height: 120px;
+}
+fieldset{
+    border: 2px solid #15ddab;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom:20px;
+
+}
+legend{
+    font-weight: bold;
+    text-align: left;
+}
+button{
+    cursor: pointer;
+    display: block;
+}
+
+outputresume{
+max-width: 600px;
+margin: auto;
+padding: 20px;
+}
